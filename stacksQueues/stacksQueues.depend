@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1608476572 source:c:\users\user\desktop\manipal\ads\stacksqueues\stack.c
+	<stdint.h>
+	<assert.h>
+	"stack.h"
+	<string.h>
+	<ctype.h>
+
+1608476618 c:\users\user\desktop\manipal\ads\stacksqueues\stack.h
+	<stdint.h>
+
+1608476636 source:c:\users\user\desktop\manipal\ads\stacksqueues\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdint.h>
+	<string.h>
+	"stack.h"
+
